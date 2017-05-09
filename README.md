@@ -1,2 +1,2 @@
 # WorldFactbook
-Analysis of CIA sponsored data on population, land area etc. over time.
+Analysis of CIA sponsored data on population, population growth, land area etc. based on statistics from 2015.  This data comes from https://www.cia.gov/library/publications/the-world-factbook/.  The data is stored in a SQLite database.  The code included in this repository is used to query this database using sqlite commands.  Code computes population growth and land area using a combination of SQL queries and operations on dataframes.
